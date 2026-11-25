@@ -11,8 +11,8 @@ Airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 ```text
 Multi-Class Image Classification CNN/
 ├── Task_3_CNN_Image_Classification.ipynb
-├── cifar10_cnn_model.keras
-├── accuracy_curve.png
+├── Cifar10_cnn_model.keras
+├── Accuracy_curve.png
 ├── loss_curve.png
 ├── confusion_matrix.png
 ├── sample_predictions.png
